@@ -6,7 +6,7 @@ A collection of educational resources for learning how to analyze translation pr
 
 ## CRITT Academy Modules
 
-The collection is organized into modules, and each module is organized into lessons. Here is a table of contents for the Modules:
+The collection is organized into modules, and each module is organized into lessons (each lesson being a code notebook). Here is a table of contents for the Modules:
 
 - **01** — [Foundations](modules/01_Foundations/README.md)
 - **02** - [Statistical Analysis](modules/02_Statistical_Analysis/)
@@ -14,6 +14,12 @@ The collection is organized into modules, and each module is organized into less
 - **04** - [Exploring Modalities](modules/04_Exploring_Modalities/)
 - **05** - [Advanced Analysis](modules/05_Advanced_Analysis/)
 <!-- - **06** - [Prompt Engineering]() -->
+
+## Getting Started
+
+We recommend starting with Lesson 01 of Module 01 ([Foundations](modules/01_Foundations/README.md)). This first lesson has links to many different videos that explain
+* how to run a code notebook from [Visual Studio Code on your *own computer*](https://vimeo.com/1211814549)
+* or how to run a code notebook from [Google Colab](https://vimeo.com/1201603642)
 
  ## Environment Requirements
 

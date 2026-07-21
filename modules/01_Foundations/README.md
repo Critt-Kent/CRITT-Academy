@@ -12,7 +12,7 @@ The lessons in this module cover the basics of working with CRITT TPR-DB data.
 
 - <abbr title="Still under development">🚧</abbr> Lesson 04: **[Source Token Tables](04_Source_Token_Tables.ipynb)** <!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Critt-Kent/CRITT-Academy/blob/main/modules/01_Foundations/04_Source_Token_Tables.ipynb) -->
 
-- Lesson 05: **[Pause-based Metrics](01_Pause_based_Metrics.ipynb)** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Critt-Kent/CRITT-Academy/blob/main/modules/01_Foundations/05_Pause_based_Metrics.ipynb)
+- Lesson 05: **[Pause-based Metrics](05_Pause_based_Metrics.ipynb)** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Critt-Kent/CRITT-Academy/blob/main/modules/01_Foundations/05_Pause_based_Metrics.ipynb)
 
     - [Version of Lesson 05 (Pause-based Metrics) for running on the CRITT server](05_Pause_based_Metrics_CRITTserver.ipynb)
 
